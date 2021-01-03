@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Buddhika Dananjaya</h1>
-<h3 align="center">FOSS & Linux Enthusiast | Blogger | Undergraduate 🎓 | Developer ☕</h3>
+<h3 align="center">FOSS & Linux Enthusiast 🐧 | Blogger 📝 | Undergraduate 🎓 | Developer ☕</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BuddhikaD&color=brightgreen" alt="BuddhikaD" /> </p>
 
