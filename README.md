@@ -6,7 +6,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/BuddhikaDanan16?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/BuddhikaD?logo=GitHub&style=for-the-badge)
 [![Linkedin](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/buddhika-dananjaya-731791182/)](https://www.linkedin.com/in/buddhika-dananjaya-731791182/)
-**Talking about Personal Stuffs:**
+
 
 - 🔭 I’m currently student as **National School Of Business Management**
 
