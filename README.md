@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BuddhikaD&color=brightgreen" alt="BuddhikaD" /> </p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/BuddhikaDanan16?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
-[![GitHub followers](https://img.shields.io/github/followers/BuddhikaD?logo=GitHub&style=for-the-badge)][github]
-[![Linkedin: Buddhika](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/buddhika-dananjaya-731791182/)][linkedin]
+![Twitter Follow](https://img.shields.io/twitter/follow/BuddhikaDanan16?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/BuddhikaD?logo=GitHub&style=for-the-badge)
+![Linkedin: Buddhika](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/buddhika-dananjaya-731791182/)
 
 **Talking about Personal Stuffs:**
 
@@ -25,16 +25,15 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/buddhikadanan16" target="blank"><img align="center"
+<a href="https://twitter.com/buddhikadanan16" target="blank"><img align="left"
 src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="buddhikadanan16"
 width="22px" /></a>
-<a href="https://linkedin.com/in/buddhika-dananjaya-731791182/" target="blank"><img align="center"
+<a href="https://linkedin.com/in/buddhika-dananjaya-731791182/" target="blank"><img align="left"
 src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="buddhika-dananjaya-731791182/"
 width="22px" /></a>
-<a href="https://instagram.com/_.buddhi._" target="blank"><img align="center"
+<a href="https://instagram.com/_.buddhi._" target="blank"><img align="left"
 src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_.buddhi._"
 width="22px" /></a>
-
 <br />
 
 ### Languages and Tools:
@@ -53,26 +52,16 @@ width="22px" /></a>
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-
-
 <br />
 <br />
-
 ---
 ### ⚡ &ensp;Latest Articles
 <!-- FOSSLK -->
 - [FOSS Community Sri-lanka Blog](https://blog.foss.lk/author/buddhika/)
 <!-- FOSSLK -->
-
 <!-- FOSSNSBM -->
 - [FOSS Community NSBM Blog](https://fossnsbm.org/author/buddhika/)
 <!-- FOSSNSBM -->
-
 ---
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuddhikaD&layout=compact&langs_count=8&theme=dark"
-        alt="BuddhikaD" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BuddhikaD&layout=compact&langs_count=8&theme=dark"
-        alt="BuddhikaD" /></p>
+![Buddhika's github stats](https://github-readme-stats.vercel.app/api?username=BuddhikaD&layout=compact&langs_count=8&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuddhikaD&layout=compact&langs_count=8&theme=dark)
