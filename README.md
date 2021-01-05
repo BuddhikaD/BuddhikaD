@@ -5,7 +5,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/BuddhikaDanan16?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/BuddhikaD?logo=GitHub&style=for-the-badge)
-[![Linkedin](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/buddhika-dananjaya-731791182/)](https://www.linkedin.com/in/buddhika-dananjaya-731791182/)
+[![Linkedin](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/buddhikadananjaya/)](https://www.linkedin.com/in/buddhika-dananjaya-731791182/)
 
 
 - 🔭 I’m currently student as **National School Of Business Management**
@@ -27,7 +27,7 @@
 <a href="https://twitter.com/buddhikadanan16" target="blank"><img align="left"
 src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="buddhikadanan16"
 width="22px" /></a>
-<a href="https://linkedin.com/in/buddhika-dananjaya-731791182/" target="blank"><img align="left"
+<a href="https://www.linkedin.com/in/buddhikadananjaya/" target="blank"><img align="left"
 src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="buddhika-dananjaya-731791182/"
 width="22px" /></a>
 <a href="https://instagram.com/_.buddhi._" target="blank"><img align="left"
