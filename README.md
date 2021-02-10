@@ -24,15 +24,11 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/buddhikadanan16" target="blank"><img align="left"
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="buddhikadanan16"
-width="22px" /></a>
-<a href="https://www.linkedin.com/in/buddhikadananjaya/" target="blank"><img align="left"
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="buddhika-dananjaya-731791182/"
-width="22px" /></a>
-<a href="https://instagram.com/_.buddhi._" target="blank"><img align="left"
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_.buddhi._"
-width="22px" /></a>
+[![twitter Card](https://img.icons8.com/color/28/000000/twitter.png)](https://twitter.com/BuddhikaDanan16)
+[![linkedin Card](https://img.icons8.com/color/28/000000/linkedin.png)](https://www.linkedin.com/in/buddhikadananjaya)
+[![telegram Card](https://img.icons8.com/color/28/000000/telegram-app.png)](https://t.me/BuddhikaD)
+[![instagram Card](https://img.icons8.com/fluent/28/000000/instagram-new.png)](https://www.instagram.com/_.buddhi._/)<br>
+[![Gmail Badge](https://img.shields.io/badge/-buddhikadananjaya55@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:buddhikadananjaya55@gmail.com)](mailto:buddhikadananjaya55@gmail.com)
 <br />
 
 ### Languages and Tools:
