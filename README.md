@@ -10,15 +10,15 @@
 
 - 🔭 I’m currently student as **National School Of Business Management**
 
-- 🌱 I’m currently learning **Webdev**
+- 🌱 I’m currently learning **DevOps Materials**
 
 - 👯 I’m looking to collaborate on **open source/commercial projects**
 
 - ❤ I’m open source lover
 
-- ⚙️ I use daily: `.html`, `.js`, `.react`, `.css`,
+- ⚙️ I use daily: `.python`, `.bash`, `.js`, `.aws`,
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Anything You want to know**
 
 - 📫 How to reach me **buddhikadananjaya55@gmail.com**
 
